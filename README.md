@@ -29,3 +29,5 @@ Functions list:
 * Power 2xAAA LR03 batteries
 
 Detailed information on my site: https://www.pominchuk.com/lightmeter/
+
+[More Info](https://create.arduino.cc/projecthub/vasyl-pominchuk/lightmeter-flashmeter-for-photographers-7be5ad)
